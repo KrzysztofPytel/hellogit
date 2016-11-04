@@ -102,6 +102,14 @@
         <group>KrDZIs3011Io</group>
 </student>
 
+<student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Pytel</lastname>
+        <email>s174753@uek.krakow.pl</email>
+        <github>KrzysztofPytel</github>
+        <group>KrDZIs3012Io</group>
+</student>
+
 
 
 </students>
